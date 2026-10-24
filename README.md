@@ -25,7 +25,7 @@ Physical prototypes of the base support and housing were produced during develop
 
 Photographs are available in the `Images` folder.
 
-![Physical prototype](Images%20and%20Demonstrating%20Video/prototype.jpg)
+![Physical prototype](Bio-mimetic%20Robotic%20Arm%20Design%20and%20Control/Images%20and%20Demonstrating%20Video/prototype.jpg)
 
 ## Control System
 
