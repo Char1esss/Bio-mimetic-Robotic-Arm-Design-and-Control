@@ -25,6 +25,8 @@ Physical prototypes of the base support and housing were produced during develop
 
 Photographs are available in the `Images` folder.
 
+![Physical prototype](Images/prototype.jpg)
+
 ## Control System
 
 The control code uses Arduino-style C/C++ programming to manage stepper motor drivers through STEP, DIR, and ENABLE signals.
